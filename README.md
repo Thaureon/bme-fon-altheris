@@ -16,13 +16,20 @@ This repository serves as an exploration of modding for Satisfactory.
 
 The initial focus of the project is on making small, targeted modifications to the base game in order to understand the modding pipeline, data structures, and gameplay integration points.
 
-Areas of exploration include:
+As familiarity increases, the project will also explore the creation of a randomizer, introducing controlled randomness into aspects of the game to better understand data-driven systems and mod behavior.
+
+---
+
+## Areas of Exploration
+
+This project may explore tournament formats including, but not limited to:
+
 * Adding new resources
 * Creating custom recipes
 * Understanding how those elements integrate into existing production chains
-* Creating menu options
+* Adding settings menu items on main menu and pause menu
 
-As familiarity increases, the project will also explore the creation of a randomizer, introducing controlled randomness into aspects of the game to better understand data-driven systems and mod behavior.
+Implementations may vary in completeness as part of the learning process.
 
 ---
 
