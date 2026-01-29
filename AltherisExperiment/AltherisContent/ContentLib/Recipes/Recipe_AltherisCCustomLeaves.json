@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Name": "AltherisC Leaves",
+  "Ingredients": [
+    {
+      "Item": "Desc_Leaves",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_Wood",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_AltherisCCustomLeaves",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingDuration": 5,
+  "ProducedIn": ["Build_AssemblerMk1", "BP_WorkBenchComponent"],
+  "UnlockedBy": ["Schematic_1-1"]
+}
