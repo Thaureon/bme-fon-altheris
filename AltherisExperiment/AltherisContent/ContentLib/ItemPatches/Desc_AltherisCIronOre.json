@@ -1,0 +1,6 @@
+//Game/FactoryGame/Resource/RawResources/OreIron/Desc_OreIron.Desc_OreIron_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Item.json",
+  "Name": "Altheris Ore",
+  "Description": "Renamed because Iron Ore no longer exists."
+}

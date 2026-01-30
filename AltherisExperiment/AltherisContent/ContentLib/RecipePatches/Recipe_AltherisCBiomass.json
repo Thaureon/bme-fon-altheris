@@ -1,0 +1,18 @@
+//Game/FactoryGame/Recipes/Constructor/Recipe_Biomass_Leaves.Recipe_Biomass_Leaves_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Name": "AltherisC Biomass",
+  "Ingredients": [
+    {
+      "Item": "Desc_AltherisCCustomLeaves",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_GenericBiomass",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingDuration": 5
+}
